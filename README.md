@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KIN9045
+- 👋 Hi, I’m Opana King Junior
 - 👀 I’m interested in Programing and Cyber Security 
 - 🌱 I’m currently learning AI and automation in cyber space
 - 💞️ I’m looking to collaborate on bug bounty programes
